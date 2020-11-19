@@ -1,38 +1,17 @@
 # My Programming Portfolio
 
 ### Adventure Game
+![Radio_Silent](https://user-images.githubusercontent.com/71109231/99618096-55955900-29e6-11eb-998e-130913341bee.PNG)
+`A game that demonstrates object orintated programming principals inheritance, encapsulation, and polymophism.
 
 ### Study Application
 
-### Adopt-An-Insect
+`This application demonstrates the use of lists and arrays.
 
 ### Trivia Game
 
-You can use the [editor on GitHub](https://github.com/Grace-Anders/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This application demonstrates the use of taking player input.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Adopt-An-Insect
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+This application demonstrates the use of a class.
